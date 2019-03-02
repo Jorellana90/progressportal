@@ -9,11 +9,12 @@ $ `echo "# Progess Portal" > README.md`
 $ `git init`
 + Run git workflow
 Add and commit files to local repository
-$ `git status`
-$ `git add .`
-$ `git status`
-$ `git commit -m "Initial commit"`
-$ `git status`
+$ `git status`   
+$ `git add .`  
+$ `git status`  
+$ `git commit -m "Initial commit"`  
+$ `git status`  
+
 + Create repository in Github
 + Add the remote repository locally
 $ `git remote add origin https://github.com/Jorellana90/progressportal.git`
