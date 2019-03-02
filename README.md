@@ -1,5 +1,5 @@
 # Progress Portal
-### Create a markdown blog
+### Create a markdown blog - February 23rd, 2019
 + Make a directory on my desktop called progressportal
 $ `mkdir progressportal`
 + Create a README.md file with the heading Progress Portal
@@ -22,3 +22,15 @@ $ `git remote add origin https://github.com/Jorellana90/progressportal.git`
 + Push local repository to Github
 $ `git push -u origin master`
 $ `git status`
+
+---
+
+# Progress Portal Update - March 2nd, 2019
+### Created webpages in HTML 
++ Learned difference between inline, internal, and external CSS
++ How to link all pages via nav bar
++ How to setup a HTML page
++ Reviewed HTML elements
++ Reviewing git workflow
++ Push local changes to remote repository
++ Talked about best practices
