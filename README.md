@@ -9,6 +9,7 @@ $ `echo "# Progess Portal" > README.md`
 $ `git init`
 + Run git workflow
 Add and commit files to local repository
+
 $ `git status`   
 $ `git add .`  
 $ `git status`  
