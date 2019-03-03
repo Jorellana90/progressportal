@@ -30,12 +30,9 @@ $ `git status`
 + Learned difference between inline, internal, and external CSS
 + How to link all pages via nav bar
 + How to setup a HTML page
++ Created 11 individual HTML webpages
 + Reviewed HTML elements
 + Reviewing git workflow
 + Push local changes to remote repository
 + Talked about best practices
 + Reviewed JSON and Key and Value pairs 
-
----
-
-# Update - March 3rd, 2019
