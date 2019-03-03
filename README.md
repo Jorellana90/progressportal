@@ -35,3 +35,7 @@ $ `git status`
 + Push local changes to remote repository
 + Talked about best practices
 + Reviewed JSON and Key and Value pairs 
+
+---
+
+# Update - March 3rd, 2019
