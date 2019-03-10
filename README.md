@@ -36,3 +36,11 @@ $ `git status`
 + Push local changes to remote repository
 + Talked about best practices
 + Reviewed JSON and Key and Value pairs 
+
+---
+
+# Progress Portal Update - March 9th, 2019
+### Worked on webpages
++ Created local progressportal directory on personal iMac
++ Cloned remote repo to local repo on iMac 
++ Updated nav bar on each HTML page
