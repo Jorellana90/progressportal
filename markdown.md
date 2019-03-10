@@ -14,6 +14,45 @@
 --- 
 
 #### An Image in Markdown and HTML
-$ ![Image](Icon-pictures.png "icon")
-$ 
-$ <img alt="Image" title="icon" src="Icon-pictures.png" />
+```![Image](Icon-pictures.png "icon")
+
+<img alt="Image" title="icon" src="Icon-pictures.png" />
+```
+
+---
+
+#### An link in Markdown and HTML
+
+A link mark down ```[Markdown Wiki](https://en.wikipedia.org/wiki/Markdown)```
+vs.  
+A link HTML ```<a href= "https://en.wikipedia.org/wiki/Markdown" Markdown Wiki </a>```
+
+---
+
+#### [Basics of Markdown](https://en.wikipedia.org/wiki/Markdown)  
+
+* Heading - h1 ```# Heding h1```
+* Heading - h2 ```# Heding h2```
+* Heading - h3 ```# Heding h3```
+* Heading - h4 ```# Heding h4```
+* Heading - h5 ```# Heding h5```
+* Heading - h6 ```# Heding h6```
+* Paragraphs are separated by a blank line.  
+* Two spaces at the end of a line produces a line break.  
+* Text attributes _italics_
+* Bold **bold**
+* A line of code is surrounded by tick marks `monospace` `monospace	`
+* Horizontal rule: --- 
+* Unordered list:
+`
+* apples  
+* oranges  
+* pears
+`
+* Numbered list:
+`
+1. wash
+2. rinse
+3. repeat
+`
+* A link \`[example](http:example.com/)\``[example](http://example.com/)` 
