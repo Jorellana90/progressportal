@@ -55,5 +55,10 @@ A link HTML ```<a href= "https://en.wikipedia.org/wiki/Markdown" Markdown Wiki <
 2. rinse
 3. repeat
 ```
-* A link \`[example](http:example.com/)\``[example](http://example.com/)` 
+* A link \`[example](http:example.com/)\``[example](http://example.com/)\` 
+  
 
+* An image \`![heart](https://secure.gravatar.com/avatar/8477753a58b0b531ddd64f1421548d4f?s=49&d=mm&r=g "heart icon")\``![Heart](https://secure.gravatar.com/avatar/8477753a58b0b531ddd64f1421548d4f?s=49&d=mm&r=g "heart icon")`
+* blockquote > Mardown uses email-style > characters for blockquoting
+>> Markdown uses email-style characters for blockquoting
+* Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported
