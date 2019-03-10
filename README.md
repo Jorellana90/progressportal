@@ -43,4 +43,5 @@ $ `git status`
 ### Worked on webpages
 + Created local progressportal directory on personal iMac
 + Cloned remote repo to local repo on iMac 
++ Configured Git on my iMac
 + Updated nav bar on each HTML page
