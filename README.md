@@ -45,3 +45,4 @@ $ `git status`
 + Cloned remote repo to local repo on iMac 
 + Configured Git on my iMac
 + Updated nav bar on each HTML page
++ Created a markdown.md file and completed the configuration excerise
