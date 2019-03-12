@@ -47,3 +47,11 @@ $ `git status`
 + Updated nav bar on each HTML page
 + Completed the Markdown tutorial
 + Created a markdown.md file and completed the configuration excerise
+
+---
+
+# Progress Portal Update - March 12th, 2019
+### Worked on Glossary page
++ Updated the Glossary page with new term: Semantic versioning. 
++ Met with Jen to review latest updates and work
++ Will continue to work on waffle tasks: HTML & Website Layout tasks
