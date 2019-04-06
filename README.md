@@ -55,3 +55,19 @@ $ `git status`
 + Updated the Glossary page with new term: Semantic versioning. 
 + Met with Jen to review latest updates and work
 + Will continue to work on waffle tasks: HTML & Website Layout tasks
+
+---
+
+# Progress Portal Update - March 12th, 2019
+### Github pages
++ Briefly reviewed the concept of continuous integration via Travis CI
++ Converting github repo to gitpages 
++ Branching
++ 'git branch' to check what branch I'm on
++ 'git checkout <branch_name>' to change branches
++ 'git remote -v' to check what my remote repos are
++ '*' This will show me what branch I'm on; it'll be in front of the current branch
++ 'git branch <branch_name>'
++ 'git checkout -b <branch_name>' Will create new branch and takes me to that branch
++ Talked Docker & virtual machines
++ Created a Docker account 
