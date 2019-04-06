@@ -1,4 +1,4 @@
-# Birds & Cats Love One Another
+# Humans Love One Another
 ### Create a markdown blog - February 23rd, 2019
 + Make a directory on my desktop called progressportal
 $ `mkdir progressportal`
