@@ -1,4 +1,4 @@
-# Progress Portal
+# Birds & Cats Love One Another
 ### Create a markdown blog - February 23rd, 2019
 + Make a directory on my desktop called progressportal
 $ `mkdir progressportal`
@@ -71,3 +71,4 @@ $ `git status`
 + 'git checkout -b <branch_name>' Will create new branch and takes me to that branch
 + Talked Docker & virtual machines
 + Created a Docker account 
++ 
