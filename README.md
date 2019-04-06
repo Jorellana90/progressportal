@@ -71,4 +71,6 @@ $ `git status`
 + 'git checkout -b <branch_name>' Will create new branch and takes me to that branch
 + Talked Docker & virtual machines
 + Created a Docker account 
-+ 
++ 'git branch -D <branch_name>' deletes branch
++ 'history' shows me a complete log of all my terminal commands that I have made
++ 'git log' shows me a complete log of all my git commits that I have made
