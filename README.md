@@ -74,3 +74,8 @@ $ `git status`
 + 'git branch -D <branch_name>' deletes branch
 + 'history' shows me a complete log of all my terminal commands that I have made
 + 'git log' shows me a complete log of all my git commits that I have made
+
+--- 
+# Progress Portal Update -- July 24th, 2019 
+### Library Capentry 
++ Reviewed Bash Commands 
