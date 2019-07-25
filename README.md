@@ -77,5 +77,12 @@ $ `git status`
 
 --- 
 # Progress Portal Update -- July 24th, 2019 
-### Library Capentry 
+### Library Carpentry - day 1
 + Reviewed Bash Commands 
++ Reviewed OpenRefine application
+
+---
+# Progress POrtal Update -- July 25th, 2019
+### Library Carpentry - day 2
++ Reviewed Jupyter Notebook - how to launch via terminal
++ Reviewed Jupyter Notebook commands
